@@ -525,7 +525,7 @@ width=25, bg="#f8f9fa")
 ).pack(side="right", padx=40) 
  
  
-# ---------- User Dashboard (BEAUTIFUL MENU CARDS) ---------- 
+# ---------- User Dashboard (MENU CARDS) ---------- 
 def user_dashboard(user_email): 
     clear_frame() 
      
@@ -664,7 +664,7 @@ view_orders(user_email)).pack(side="left", padx=20)
 padx=20) 
  
  
-# ---------- View Cart (Enhanced) ---------- 
+# ---------- View Cart ---------- 
 # ONLY REPLACE the view_cart function in YOUR ORIGINAL CODE: 
  
 def view_cart(user_email): 
