@@ -11,7 +11,7 @@ import random
 DB_CONFIG = { 
     'host': 'localhost', 
     'user': 'root', 
-    'password': 'Rajsam', 
+    'password': '', 
     'database': 'food_ordering' 
 } 
  
